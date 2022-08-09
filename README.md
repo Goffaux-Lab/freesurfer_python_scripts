@@ -44,9 +44,9 @@ showing in freesurfer, since these maps were made outside of freesurfer and
 thus freesurfer behaved strangely with them.
 
 Same as
-[sigthresh.py](https://github.com/Goffaux-Lab/freesurfer_python_scripts#sigthreshpy)
-- I don't know which script we used in the end. One should be removed from this
-  repository.
+[sigthresh.py](https://github.com/Goffaux-Lab/freesurfer_python_scripts#sigthreshpy).
+I don't know which script we used in the end. One should be removed from this
+repository.
 
 #### smooth_mgh_files.py
 Smoothing some surface maps since freesurfer wouldn't apply the smoothing when
@@ -63,7 +63,7 @@ Uses [MRI_surface_functions](https://github.com/Goffaux-Lab/MRI_surface_function
 
 #### threshold_mgh.py
 Same as
-[sigthresh.py](https://github.com/Goffaux-Lab/freesurfer_python_scripts#sigthreshpy)
-- I don't know which script we used in the end. One should be removed from this
-  repository.
+[sigthresh.py](https://github.com/Goffaux-Lab/freesurfer_python_scripts#sigthreshpy).
+I don't know which script we used in the end. One should be removed from this
+repository.
 
