@@ -8,7 +8,7 @@ using the up to date functions directly like so:
 ```python
 import mesh_functions as mf
 
-mask = get_multi_neighbours(G, artifacts, dilation)
+mask = mf.get_multi_neighbours(G, artifacts, dilation)
 ```
 
 #### check_across_sub_alignment.py
