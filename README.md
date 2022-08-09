@@ -44,7 +44,7 @@ showing in freesurfer, since these maps were made outside of freesurfer and
 thus freesurfer behaved strangely with them).
 
 Same as
-[sigthresh.py](https://github.com/Goffaux-Lab/freesurfer_python_scripts#sigthreshpy).
+[threshold_mgh.py](https://github.com/Goffaux-Lab/freesurfer_python_scripts#threshold_mghpy).
 I don't know which script we used in the end. One should be removed from this
 repository.
 
