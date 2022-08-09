@@ -41,7 +41,7 @@ Uses [MRI_surface_functions](https://github.com/Goffaux-Lab/MRI_surface_function
 #### sigthresh.py
 Script to make non-significant part of map into NaN values (this was needed for
 showing in freesurfer, since these maps were made outside of freesurfer and
-thus freesurfer behaved strangely with them.
+thus freesurfer behaved strangely with them).
 
 Same as
 [sigthresh.py](https://github.com/Goffaux-Lab/freesurfer_python_scripts#sigthreshpy).
